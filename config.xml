@@ -14,7 +14,7 @@
     <preference name="UIWebViewBounce" value="false" />
     <preference name="DisallowOverscroll" value="true" />
   
-  <access origin="//ajax.googleapis.com/" />
+  <access origin="//" />
   <access origin="http://code.ionicframework.com/0.9.24/js/ionic.bundle.min.js" />
   
 </widget>
